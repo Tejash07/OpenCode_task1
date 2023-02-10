@@ -1,0 +1,32 @@
+1. Explain very briefly the difference between Git and GitHub?
+Ans.   
+                          GIT                                      GITHUB
+              (I) Git is maintained by linux.            (I)GitHub is maintained by Microsoft.                   
+              (II) Git mainly focuses version control    (II) GitHub mainly focus on centralized source code hosting.
+                   and sharing of code.
+              (III) Git is open source.                  (III) GitHub includes both free and paid types.
+              (IV)  Git is installed locally in system.  (IV) GitHub is done in web.
+              (V)   Git don't have user management       (V) GitHub have pre-user management feature.
+                    feature.   
+
+
+                       
+2. Explain very briefly any 5 basics git commands
+Ans.
+(i) commit. This command records the file permanently in the version history.
+(ii) push . This command sends the committed changes of master branch to your remote repository.
+(iii) pull. This command fetches and merges changes on the remote server to your working directory.
+(iv)merge . This command merge the specified branch's history to the current branch.
+(v) diff  . This command shows the file differences which are not yet staged.
+
+
+
+
+3.How to make a pull request?
+Ans.  (i) In GitHub.com website we have to go to the main page of the repo.
+      (ii) In the "Branch" menu we have to choose the branch that contains our commits.
+      (iii) Then we have to click on the Pull request.
+	(iv) Then we have to use the base branch drop down menu to select the branch we would like to merge our changes into.
+	(V) Then we have to use the compare branch drop down menu to choose the topic branch we  made our changes in.
+	(vi) Then we have to write the title and description of our pull request.
+	(vii) Then click on Create Pull Request.
